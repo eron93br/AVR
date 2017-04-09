@@ -1,7 +1,13 @@
 # Microcontroladores AVR
 
+Em geral os MCUs da Atmel, os AVRs vao muito alem do modelo Atmega328P utilizado pelo classico Arduino UNO.
+Existe uma grande familia de microcontroladores assim como os PIC, a diferenca eh que ainda nao sao tao
+populares quanto o PIC no Brasil. 
+
 
 # Software
+
+# Programadores
 
  Para a programacao de microcontroladores AVR temos algumas opcoes diferentes,
  em sua maior parte elas usam gravadores da Atmel como o Atmel ICE e AVR Dragon:
