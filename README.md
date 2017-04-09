@@ -39,3 +39,10 @@ Funciona como emulador e programador, custa em torno de US$50 e programa via con
  
 USBasp é um gravador para controladores Atmel AVR com uma conexão USB construída em sua placa.
 É constituído de um ATMega8 e outros simples componentes eletrônicos. O gravador apenas utiliza de um driver USB para comunicação, não sendo necessário um controlador USB especial
+
+# Referencias
+
+ Seguem algumas EXCELENTES referencias na area! 
+
+- AVR Microcontroller and Embedded Systems: Using Assembly and C
+http://bit.ly/2piamfR
