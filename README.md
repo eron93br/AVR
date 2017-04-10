@@ -1,14 +1,12 @@
 # Microcontroladores AVR
 
-Em geral os MCUs da Atmel, os AVRs vao muito alem do modelo Atmega328P utilizado pelo classico Arduino UNO.
-Existe uma grande familia de microcontroladores assim como os PIC, a diferenca eh que ainda nao sao tao
-populares quanto o PIC no Brasil. 
+Em geral os MCUs da Atmel, os AVRs vão muito além do modelo Atmega328P utilizado pelo clássico Arduino UNO. Existe uma grande família de microcontroladores assim como os PIC, a diferença é que ainda não são tão populares quanto o PIC no Brasil.
 
-Os que tenho experiencia com programacao sao:
+Os que tenho experiência com programação são:
 
 - Atmega 328P
 
-O classico Atmega utilizado pelo Arduino UNO, com especificacoes interessantes para um modelo inicial.
+O clássico Atmega utilizado pelo Arduino UNO, com especificações interessantes para um modelo inicial.
 
 - Attiny85
 
@@ -21,6 +19,15 @@ O utilizado pelo Arduino MEGA, possui hardware equivalente ao 328P com maior mem
 # Software
 
 - AVR Dude
+
+AVRDUDE é uma aplicação de código aberto para gravar programas na Flash de processadores AVR (como os utilizados na plataforma Arduino). A própria IDE do Arduino utiliza o AVRDUDE para fazer a carga dos sketches. Vamos ver aqui um resumo do seu uso.
+
+O AVRDUDE roda em um PC (sob Windows, Linux ou MacOS) e se comunica com um programador externo, através de uma porta serial ou paralela do PC. O programador está conectado ao microcontrolador e utiliza a programação paralela ou SPI do AVR. Uma das vantagens do AVRDUDE é suportar uma quantidade muito grande de programadores e de modelos de microcontrolador.
+
+A execução do AVRDUDE é controlada por parâmetros de linha de comando e um arquivo de configuração. Vamos examinar aqui apenas os parâmetros de linha de comando essenciais. O AVRDUDE e sua documentação completa podem ser encontrados em alguns locais:
+O executável para Windows faz parte do pacote WinAVR, hospedado no sourceforge.
+Se você instalou a IDE do Arduino, o avrdude faz parte dos arquivos sob hardware\tools\avr
+Um tutorial mais completo pode ser encontrado no site ladyada.
 
 - Atmel Studio
 
