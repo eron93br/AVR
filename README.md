@@ -56,3 +56,7 @@ USBasp é um gravador para controladores Atmel AVR com uma conexão USB constru�
 - AVR Microcontroller and Embedded Systems: Using Assembly and C
 
 http://bit.ly/2piamfR
+
+- Tutorial primeiros passos com Atmel Studio com Arduino UNO
+
+https://www.embarcados.com.br/atmel-studio/
