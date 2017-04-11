@@ -27,9 +27,11 @@ O AVRDUDE roda em um PC (sob Windows, Linux ou MacOS) e se comunica com um progr
 A execução do AVRDUDE é controlada por parâmetros de linha de comando e um arquivo de configuração. Vamos examinar aqui apenas os parâmetros de linha de comando essenciais. O AVRDUDE e sua documentação completa podem ser encontrados em alguns locais:
 O executável para Windows faz parte do pacote WinAVR, hospedado no sourceforge.
 Se você instalou a IDE do Arduino, o avrdude faz parte dos arquivos sob hardware\tools\avr
-Um tutorial mais completo pode ser encontrado no site ladyada.
+Um tutorial mais completo pode ser encontrado no site ladyada. http://www.ladyada.net/learn/avr/avrdude.html 
 
 - Atmel Studio
+
+Atmel Studio é a plataforma de desenvolvimento disponibilizada gratuitamente pela Atmel para desenvolver projetos com seus microcontroladores. Suporta tanto os Atmel AVR quanto os Atmel ARM Cortex.
 
 - Arduino IDE
 
