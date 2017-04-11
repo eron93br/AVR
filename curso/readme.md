@@ -11,3 +11,21 @@ https://www.embarcados.com.br/atmel-studio/
 - Protoboard, jumpers, switches, LEDs, push-buttons
 - Software Atmel Studio instlado no PC
 - conhecimento básico em Arduino 
+
+# Organização 
+
+- Módulo 1
+
+Acionamento de I/O, definicao de portas digitais e estrutura de funcoes. 
+
+- Módulo 2
+
+Timers, interrupcoes, contadores.
+
+- Módulo 3
+
+Protocolos SPI, I2C, Serial
+
+- Módulo 4
+
+ Conversao A/D e tópicos avancados 
