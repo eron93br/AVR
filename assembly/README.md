@@ -1,4 +1,4 @@
-# Códigos em Assembly para AVRs
+# Assembly codes for AVR
 
  O objetivo desta pasta é listar alguns códigos em Assembly para melhor compreensao do funcionamento da arquitetura 
 do AVR. Os códigos são dividos em alguns para apenas simulacao no Atmel Studio e outros que podem ser programados em AVRs
